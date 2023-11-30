@@ -145,7 +145,7 @@ Publish the website in the LocalHost.
                 <b>Extended Edition</b>
             </div>
         </div>
-    </body>
+    </body>g
 </html>
 ```
 
