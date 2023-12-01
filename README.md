@@ -149,10 +149,8 @@ Publish the website in the LocalHost.
 </html>
 ```
 
-## OUTPUT!
-
-[Alt text](<Screenshot (16).png>):
-
+## OUTPUT:
+![Alt text](<Screenshot (16).png>)
 
 
 ## RESULT:
